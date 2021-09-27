@@ -1,2 +1,2 @@
-# TIENDADETTOVEN
-V
+# CarritoComprasHTMLjQuery
+https://oscaruhp.github.io/CarritoComprasHTMLjQuery/
